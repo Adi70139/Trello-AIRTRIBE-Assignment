@@ -1,4 +1,4 @@
-# Task/Card Management App
+
 
 ## Overview
 
@@ -27,4 +27,4 @@ To use the Task/Card Management App, follow these steps:
 1. **Clone the Repository:** Clone the repository to your local machine:
 
    ```bash
-   git clone [https://github.com/Himanshu-Dhawale/airtribe-assignment]
+   git clone [https://github.com/Adi70139/AIRTRIBE-Assignment]
