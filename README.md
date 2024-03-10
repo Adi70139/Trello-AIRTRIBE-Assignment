@@ -6,7 +6,8 @@ This Task/Card Management App is a web application built using Vite and React.js
 
 - **Drag and Drop Tasks/Cards:** You can move tasks/cards from one status to another using a simple drag-and-drop interface.
 
-![Screenshot 2024-03-10 120046](https://github.com/Adi70139/Trello-AIRTRIBE-Assignment/assets/93106914/dff38f18-cdb8-4ebb-bc61-374f5f084af4)
+![Screenshot 2024-03-10 120046](https://github.com/Adi70139/Trello-AIRTRIBE-Assignment/assets/93106914/716b79b5-2432-4ef6-bbfc-e3af07d3aed2)
+
 
 ## Features
 
@@ -17,7 +18,7 @@ This Task/Card Management App is a web application built using Vite and React.js
 
 ## Demo
 
-Check out the live demo [here](#).
+Check out the live demo here... [https://adi70139.github.io/Trello-AIRTRIBE-Assignment/]
 
 ## Getting Started
 
@@ -30,4 +31,4 @@ Check out the live demo [here](#).
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/Himanshu-Dhawale/airtribe-assignment]
+   git clone [https://github.com/Adi70139/Trello-AIRTRIBE-Assignment]
