@@ -1,30 +1,57 @@
-# Task/Card Management App
 
-## Overview
 
-This Task/Card Management App is a web application built using Vite and React.js. It offers the following features:
+# React Trello Clone
 
-- **Drag and Drop Tasks/Cards:** You can move tasks/cards from one status to another using a simple drag-and-drop interface.
+A Trello-inspired task management application built with React. This project allows users to organize tasks using boards and cards with an intuitive drag-and-drop interface.
 
-- **Adding New Tasks:** The "New" button under any status column allows you to add new tasks.
+![Screenshot 2024-03-10 120046](https://github.com/Adi70139/Trello-AIRTRIBE-Assignment/assets/93106914/dff38f18-cdb8-4ebb-bc61-374f5f084af4)
 
-- **Task Details Page:** Clicking on a task opens a new page where you can change the title, status, and description of the task. You can also delete a task from this details page.
+## Features
 
-- **Card Count Display:** The app displays the count of cards under each status column, making it easy to see how many tasks are in each category.
+- **Create Boards:** Easily create boards to categorize your tasks.
+- **Add and Manage Cards:** Populate boards with cards, update their details, and mark tasks as completed.
+- **Drag-and-Drop:** Intuitive drag-and-drop functionality for seamless task organization.
+- **Local Storage:** Data persistence across sessions using local storage.
 
-## Technologies Used
+## Demo
 
-This app is built with the following technologies:
-
-- **Vite:** A build tool for web development that offers fast development and building capabilities.
-
-- **React.js:** A popular JavaScript library for building dynamic and interactive user interfaces.
+Check out the live demo [here](#).
 
 ## Getting Started
 
-To use the Task/Card Management App, follow these steps:
+### Prerequisites
 
-1. **Clone the Repository:** Clone the repository to your local machine:
+- Node.js and npm installed on your machine.
+
+### Installation
+
+1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/Himanshu-Dhawale/airtribe-assignment]
+   git clone https://github.com/Adi70139/Trello-AIRTRIBE_Assignment
+Navigate to the project directory:
+
+bash
+Copy code
+cd react-trello-clone
+Install dependencies:
+
+bash
+Copy code
+npm install
+Usage
+Run the application:
+
+bash
+Copy code
+npm start
+Open your browser and visit [local host](http://localhost:5173)
+
+Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License.
+
+Author
+Aditya
